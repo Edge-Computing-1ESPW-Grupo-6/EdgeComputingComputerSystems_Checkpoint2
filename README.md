@@ -91,4 +91,4 @@ ___
 Para execução do projeto é necessário conhecimento sobre o uso da plataforma Autodesk Tinkercad, e experiência com o uso do programa Arduino e de seus componentes físicos. É necessário também saber usos básicos da linguagem C++ para entendimento do código e ajustes necesários.
 ___
 ### Video Explicativo
-  [Link para o vídeo explicativo do projeto no Google Drive](https://drive.google.com/file/d/14JTUxA9DLmadRMGnECJU8MJLK81YmrGo/view?usp=sharing)
+  [Link para o vídeo explicativo do projeto no Google Drive](https://drive.google.com/file/d/1xf-mtCMv0VZjnR7xjHWejM99nq8C-1Cr/view?usp=sharing)
